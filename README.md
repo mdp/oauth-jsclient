@@ -65,7 +65,7 @@ Follow the instructions below to use the library :
 ### Options :
 
 * `clientId` - clientID for your app. Required
-* `clientSecret` - clientSecret fpor your app. Required
+* `clientSecret` - clientSecret for your app. Required
 * `environment` - environment for the client. Required
     * `sandbox` - for authorizing in sandbox.
     * `production` -  for authorizing in production.
